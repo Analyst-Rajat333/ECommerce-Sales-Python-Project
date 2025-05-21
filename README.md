@@ -85,11 +85,9 @@ This project performs a complete **Sales and Profit Analysis** using Python on a
 
 ---
 
-## 🚀 How to Run This Project
+## 🔗 GitHub Repository Link
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Analyst-Rajat333/ECommerce-Sales-Python-Project.git
+https://github.com/Analyst-Rajat333/ECommerce-Sales-Python-Project
 
 
 ## 👨‍💻 Author
